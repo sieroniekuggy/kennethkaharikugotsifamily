@@ -4,164 +4,170 @@ var json =
         "name": "Kenneth Kahari (Late)",
         //Kahari wives
         "children": [{
-            //Kahari's 1st wife
-            "name": "1st Wife (Late)",
-            "children": [{
-                "name": "Peter Kahari (Late) & Tsitsi",
+                //Kahari's 1st wife
+                "name": "1st Wife (Late)",
                 "children": [{
-                    "name": "Kenneth Kahari",
+                    "name": "Peter Kahari (Late) & Tsitsi",
                     "children": [{
-                        "name": "1st Wife (Coleen Musokeri)",
+                        "name": "Kenneth Kahari",
                         "children": [{
-                            "name": "Tsitsi Kahari"
+                            "name": "1st Wife (Coleen Musokeri)",
+                            "children": [{
+                                "name": "Tsitsi Kahari"
+                            }, {
+                                "name": "Nyasha Kahari"
+                            }, {
+                                "name": "Audious Kahari"
+                            }]
                         }, {
-                            "name": "Nyasha Kahari"
-                        }, {
-                            "name": "Audious Kahari"
+                            "name": "2nd Wife (Still searching)"
                         }]
                     }, {
-                        "name": "2nd Wife (Still searching)"
-                    }]
-                }, {
-                    "name": "Juliet Kahari",
-                    "children": [{
-                        "name": "Munetsi"
-                    }, {
-                        "name": "Sharon"
-                    }]
-                }, {
-                    "name": "Takeit Kahari and Tendai (Wife)",
-                    "children": [{
-                        "name": "Tariro Kahari"
-                    }, {
-                        "name": "Previous Kahari"
-                    }, {
-                        "name": "Merlin Kahari"
-                    }]
-                }, {
-                    "name": "Crymore Kahari & Chenai Nzunza (Wife)",
-                    "children": [{
-                        "name": "Panashe Kahari"
-                    }]
-                }]
-            }]
-        }, {
-            //Kahari's 2nd wife
-            "name": "2nd Wife (Getrude (Late))",
-            "children": [{
-                "name": "Concillia Kugotsi",
-                "children": [{
-                    "name": "Isaac"
-                }, {
-                    "name": "Anymore"
-                }, {
-                    "name": "Jonathan"
-                }]
-            }, {
-                "name": "Mafios Kahari(Late)",
-                "children": [{
-                    "name": "Jeniffer Kahari (Late)",
-                    "children": [{
-                        "name": "Tapiwa Banda (Kahari)"
-                    }]
-                }, {
-                    "name": "Regai Kahari",
-                    "children": [{
-                        "name": "1st Wife (Chipo)",
+                        "name": "Juliet Kahari",
                         "children": [{
-                            "name": "Mafios Kahari"
+                            "name": "Munetsi"
                         }, {
-                            "name": "Shalom Kahari"
-                        }, {
-                            "name": "Kudakwashe Kahari"
-                        }, {
-                            "name": "Kupakwashe Kahari"
+                            "name": "Sharon"
                         }]
-                    }]
-                }, {
-                    "name": "Smart Kahari",
-                    "children": [{
-                        "name": "1st Wife (Hopetwin Tumbare)",
+                    }, {
+                        "name": "Takeit Kahari and Tendai (Wife)",
                         "children": [{
-                            "name": "Chidochashe Kahari"
+                            "name": "Tariro Kahari"
                         }, {
-                            "name": "Chiedza Kahari"
+                            "name": "Previous Kahari"
+                        }, {
+                            "name": "Merlin Kahari"
+                        }]
+                    }, {
+                        "name": "Crymore Kahari & Chenai Nzunza (Wife)",
+                        "children": [{
+                            "name": "Panashe Kahari"
                         }]
                     }]
                 }]
             }, {
-                "name": "Phillis (Late)",
+                //Kahari's 2nd wife
+                "name": "2nd Wife (Getrude (Late))",
                 "children": [{
-                    "name": "Eunice",
+                    "name": "Concillia Kugotsi",
                     "children": [{
-                        "name": "Arnold"
+                        "name": "Isaac"
+                    }, {
+                        "name": "Anymore"
+                    }, {
+                        "name": "Jonathan"
                     }]
                 }, {
-                    "name": "Pamela"
+                    "name": "Mafios Kahari(Late)",
+                    "children": [{
+                        "name": "1st Wife",
+                        "children": [{
+                            "name": "Jeniffer Kahari (Late)",
+                            "children": [{
+                                "name": "Tapiwa Banda (Kahari)"
+                            }]
+                        }, {
+                            "name": "Regai Kahari  Chipo (Wife)",
+                            "children": [{
+                                "name": "Mafios Kahari"
+                            }, {
+                                "name": "Shalom Kahari"
+                            }, {
+                                "name": "Kudakwashe Kahari"
+                            }, {
+                                "name": "Kupakwashe Kahari"
+                            }]
+                        }, {
+                            "name": "Smart Kahari & Hopetwin Tumbare (Wife))",
+                            "children": [{
+                                "name": "Chidochashe Kahari"
+                            }, {
+                                "name": "Chiedza Kahari"
+                            }]
+                        }]
+                    }, {
+                        "name": "2nd Wife",
+                        "children": [{
+                            "name": "Knowledge Kahari"
+                        }, {
+                            "name": "Munashe Kahari"
+                        }]
+                    }]
+                }, {
+                    "name": "Phillis (Late)",
+                    "children": [{
+                        "name": "Eunice",
+                        "children": [{
+                            "name": "Arnold"
+                        }]
+                    }, {
+                        "name": "Pamela"
+                    }]
+                }, {
+                    "name": "Maxwell Kugotsi & Edina Baira(Wife)",
+                    "children": [{
+                        "name": "Stephen Kugotsi",
+                        "children": [{
+                            "name": "1st Wife (Thulisiwe Brenda Simon))",
+                            "children": [{
+                                "name": "Blessed Kugotsi"
+                            }]
+                        }, {
+                            "name": "Memory Hwingwiri",
+                            "children": [{
+                                "name": "Blessmore Kugotsi"
+                            }]
+                        }]
+                    }, {
+                        "name": "Success Garikai Kugotsi",
+                        "children": [{
+                            "name": "1st Wife (Shamiso Musirinofa)",
+                            "children": [{
+                                "name": "Nokutenda Kugotsi"
+                            }, {
+                                "name": "Darrel Kugotsi"
+                            }, {
+                                "name": "Blessng Kugotsi"
+                            }]
+                        }, {
+                            "name": "2nd Wife (Ruth)",
+                            "children": [{
+                                "name": "Ropafadzo Kugotsi"
+                            }]
+                        }]
+                    }, {
+                        "name": "Getrude Shorai Kugotsi",
+                        "children": [{
+                            "name": "Kudzi Dylan Chipotereke"
+                        }, {
+                            "name": "Kuzivakwashe"
+                        }]
+                    }, {
+                        "name": "Sandra Lukia Kugotsi",
+                        "children": [{
+                            "name": "Tanatswa Mupindiko"
+                        }, {
+                            "name": "Takunda Mupindiko"
+                        }]
+                    }, {
+                        "name": "Silence Ronald Kugotsi"
+                    }]
+                }, {
+                    "name": "Margaret Kugotsi"
+                }, {
+                    "name": "Stephen (Late)"
                 }]
-            }, {
-                "name": "Maxwell",
+            },
+            {
+                //Kahari's 3rd wife
+                "name": "3rd Wife (Late)",
                 "children": [{
-                    "name": "Stephen Kugotsi",
-                    "children": [{
-                        "name": "1st Wife (Thulisiwe Brenda Simon))",
-                        "children": [{
-                            "name": "Blessed Kugotsi"
-                        }]
-                    }, {
-                        "name": "Memory Hwingwiri",
-                        "children": [{
-                            "name": "Blessmore Kugotsi"
-                        }]
-                    }]
+                    "name": "Choice (Late)"
                 }, {
-                    "name": "Success Garikai Kugotsi",
-                    "children": [{
-                        "name": "1st Wife (Shamiso Musirinofa)",
-                        "children": [{
-                            "name": "Nokutenda Kugotsi"
-                        }, {
-                            "name": "Darrel Kugotsi"
-                        }, {
-                            "name": "Blessng Kugotsi"
-                        }]
-                    }, {
-                        "name": "2nd Wife (Ruth)",
-                        "children": [{
-                            "name": "Ropafadzo Kugotsi"
-                        }]
-                    }]
-                }, {
-                    "name": "Getrude Shorai Kugotsi",
-                    "children": [{
-                        "name": "Kudzi Dylan Chipotereke"
-                    }, {
-                        "name": "Kuzivakwashe"
-                    }]
-                }, {
-                    "name": "Sandra Lukia Kugotsi",
-                    "children": [{
-                        "name": "Tanatswa Mupindiko"
-                    }, {
-                        "name": "Takunda Mupindiko"
-                    }]
-                }, {
-                    "name": "Silence Ronald Kugotsi"
+                    "name": "Madhora"
                 }]
-            }, {
-                "name": "Margaret Kugotsi"
-            }, {
-                "name": "Stephen (Late)"
-            }]
-        }, {
-            //Kahari's 3rd wife
-            "name": "3rd Wife (Late)",
-            "children": [{
-                "name": "Choice (Late)"
-            }, {
-                "name": "Madhora"
-            }]
-        }]
+            }
+        ]
     };
 
 var treeData = json;
